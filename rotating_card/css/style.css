@@ -28,3 +28,7 @@
     max-height: 250px;
     overflow:hidden;
 }
+
+p a{
+  color: #999999;
+}
